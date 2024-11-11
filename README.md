@@ -1,2 +1,2 @@
 # login page
- página de login simples,
+ página de login simples.
